@@ -121,8 +121,8 @@ Install the following libraries in your Arduino IDE:
 ---
 
 ## 📸 Demo / Circuit Diagram
+![Circuit Diagram](circuit.png)
 
-> *Add images or a Fritzing diagram of your wiring setup here*
 
 ---
 
